@@ -1,4 +1,4 @@
-# Hunter - универсальный скрипт фарма для Адреналин бота Lineage 2
+# Hunter - скрипт фарма для Адреналин бота Lineage 2
 Страница плагина: https://adrenalinebot.com/script/hunter/
 
 Инструкция по настройке: https://adrenalinebot.com/pages/manuals/hunter-setup-instructions/
