@@ -9,9 +9,9 @@
 
 
 ## Hunter - universal farm script for Lineage 2
-Plugin page: https://adrenalinebot.com/script/hunter/
+Plugin page: https://adrenalinebot.com/en/script/hunter/
 
-Setup instruction: https://adrenalinebot.com/pages/manuals/hunter-setup-instructions/
+Setup instruction: https://adrenalinebot.com/en/pages/manuals/hunter-setup-instructions/
 
 Video manuals: https://www.youtube.com/playlist?list=PLV8kg-hzbFQAbjy14NHLrCwcgruJjT3nj
 
