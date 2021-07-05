@@ -6,6 +6,7 @@
 Видео по настройке: https://www.youtube.com/playlist?list=PLV8kg-hzbFQAbjy14NHLrCwcgruJjT3nj
 
 
+
 # Hunter - universal farm script for Lineage 2 Adrenaline Bot
 Plugin page: https://adrenalinebot.com/en/script/hunter/
 
